@@ -1,0 +1,33 @@
+#products{
+    text-align: center;
+    margin: 20px;
+   
+   
+}
+h2{
+    text-align: center;
+}
+#navbar{
+    text-align: center;
+}
+
+
+#products input {
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   width: 25%;
+   margin: auto;
+   padding: 10px;
+border-radius: 7px;  
+border: 1px solid gray;
+  
+  
+}
+button{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
